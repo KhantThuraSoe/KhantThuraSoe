@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhantThuraSoe
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning react and typescript
 - 💞️ I’m looking to collaborate on creating interesting projects with you!
 - 📫 Contact me through email- ktrs053272@gmail.com
 
